@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! Eu sou o Mat
 
-<!--
-**eumatoliveira/eumatoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje tenho objetivo como Full stack de me tornar um dev sênior no menor tempo possível e desenvolver código de alta qualidade
+- 🌱 Estudando: Banco de dados relacional, postgree, ruby, cypress, .Net, Angeular, Spring Boot
+- 📫 Contate-me no email: matheus.rob.oliveira@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+## 📊 Meu GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=radical)
+
+## 🚀 Contribuições e Seguidores
+![GitHub Followers](https://img.shields.io/github/followers/eumatoliveira?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/eumatoliveira?style=social)
