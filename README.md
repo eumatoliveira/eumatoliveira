@@ -10,14 +10,15 @@ Front-end: Angular
 Testing: Cypress
 💡 Fun Fact: I love debugging so much that I sometimes dream in code! 🧑‍💻💭
 
-📊 My GitHub Stats
+## 📊 Meu GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=radical)
 
+## 🔥 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=radical)
 
-🔥 Most Used Languages
-
-
-🚀 Contributions & Followers
-
+## 🚀 Contribuições e Seguidores
+![GitHub Followers](https://img.shields.io/github/followers/eumatoliveira?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/eumatoliveira?style=social)"
 
 
 🎯 What I’m Currently Up To
