@@ -1,28 +1,34 @@
-## 👋 Olá! Eu sou o Mat
+👋 Hello! I'm Mat
+🚀 Evolving Full Stack Developer
 
-🚀 **Desenvolvedor Full Stack em evolução**
+I'm passionate about technology and focused on quickly growing to a senior level, delivering efficient, scalable, and high-quality code. I'm looking for challenges that allow me to enhance my skills and make a meaningful impact on projects.
 
-Sou apaixonado por tecnologia e estou focado em **crescer rapidamente para um nível sênior**, entregando código **eficiente, escalável e de alta qualidade**. Busco desafios que me permitam aprimorar minhas habilidades e impactar projetos de forma significativa.
+🔧 Technologies & Current Studies
+Relational Database: PostgreSQL
+Back-end: Ruby, .NET, Spring Boot
+Front-end: Angular
+Testing: Cypress
+💡 Fun Fact: I love debugging so much that I sometimes dream in code! 🧑‍💻💭
 
-### 🔧 Tecnologias e Estudos Atuais
-- **Banco de Dados Relacional**: PostgreSQL
-- **Back-end**: Ruby, .NET, Spring Boot
-- **Front-end**: Angular
-- **Testes**: Cypress
-
-📫 **Vamos conversar?**
-📩 Email: [matheus.rob.oliveira@gmail.com](mailto:matheus.rob.oliveira@gmail.com)
-🌎 **Conecte-se comigo**: [LinkedIn](https://www.linkedin.com/in/m1thaus)
-
-😄 **Pronomes**: Ele/Dele
+📊 My GitHub Stats
 
 
-## 📊 Meu GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=radical)
+🔥 Most Used Languages
 
-## 🔥 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=radical)
 
-## 🚀 Contribuições e Seguidores
-![GitHub Followers](https://img.shields.io/github/followers/eumatoliveira?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/eumatoliveira?style=social)
+🚀 Contributions & Followers
+
+
+
+🎯 What I’m Currently Up To
+🛠 Building cool projects that make life easier!
+📚 Learning & improving new skills daily!
+🔥 Challenging myself to write cleaner and more efficient code!
+
+📫 Let’s talk!
+📩 Email: matheus.rob.oliveira@gmail.com
+🌎 Connect with me: LinkedIn
+
+😄 Pronouns: He/Him
+
+🚀 Let's build something amazing together!
