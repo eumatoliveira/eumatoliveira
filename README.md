@@ -1,5 +1,5 @@
 👋 Hello! I'm Mat
-🚀 Evolving Full Stack Developer
+🚀 Evolving Junior Full Stack Developer
 
 I'm passionate about technology and focused on quickly growing to a senior level, delivering efficient, scalable, and high-quality code. I'm looking for challenges that allow me to enhance my skills and make a meaningful impact on projects.
 
@@ -16,12 +16,7 @@ Testing: Cypress
 
 ![eumatoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-## 🚀 Contribuições e Seguidores
-![GitHub Followers](https://img.shields.io/github/followers/eumatoliveira?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/eumatoliveira?style=social)"
-
-
-🎯 What I’m Currently Up To
+🎯 What I’m Currently Up To: Solid & Clean Code
 🛠 Building cool projects that make life easier!
 📚 Learning & improving new skills daily!
 🔥 Challenging myself to write cleaner and more efficient code!
