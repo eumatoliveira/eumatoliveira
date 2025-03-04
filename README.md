@@ -36,7 +36,7 @@ I'm passionate about technology and focused on quickly growing to a senior level
 
 📫 **Let’s talk!**
 - 📩 **Email:** matheus.rob.oliveira@gmail.com  
-- 🌎 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/m1thaus)
+- 🌎 **Connect with me:** [LinkedIn]([https://www.linkedin.com/in/m1thaus](https://www.linkedin.com/in/matheus-oliveira-souzaa/))
 
 😄 **Pronouns:** He/Him
 
