@@ -14,9 +14,8 @@
 I'm passionate about technology and focused on growing quickly to a senior level, delivering efficient, scalable, and high-quality code. Looking for challenges that allow me to enhance my skills and make a meaningful impact on projects.
 
 🔧 **Technologies & Current Studies**
-- **Relational Database**: PostgreSQL  
 - **Back-end**: Ruby, .NET, Spring Boot  
-- **Front-end**: Angular  
+- **Front-end**: Angular, React  
 - **Testing**: Cypress  
 - **AI & Automation**: OpenAI, Zapier, Make
 
