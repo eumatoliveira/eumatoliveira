@@ -29,6 +29,13 @@ I'm passionate about technology and focused on quickly growing to a senior level
 
 ---
 
+<!--   stats + languages -->
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=radical&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=radical&layout=compact) |
+
+---
+
 🎯 **What I’m Currently Up To:**
 - 🛠 Building cool projects that make life easier!
 - 📚 Learning & improving new skills daily!
