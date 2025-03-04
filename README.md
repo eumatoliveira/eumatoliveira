@@ -44,11 +44,70 @@ I'm passionate about technology and focused on quickly growing to a senior level
 
 ---
 
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+<!-- Machine Learning Concepts -->
+<div align="center">
+  <h3>Machine Learning Framework</h3>
+  <pre><code class="mermaid">
+    graph TD;
+        machine-learning-->Data;
+        machine-learning-->Algorithms;
+        machine-learning-->Statistical-Models;
+        machine-learning-->Feature-Engineering;
+        machine-learning-->Evaluation-Metrics;
+        machine-learning-->Deployment;
+  </code></pre>
+</div>
 
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=eumatoliveira" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=eumatoliveira&show-other-skills=true" width="auto"></img>
+<!-- Hackerrank Trophy Section -->
+<div align="center">
+  <h3>Hackerrank Profile Trophy</h3>
+  <p>Achievements in coding challenges:</p>
+  <img src="./src/badges_hackerrank.png" alt="Hackerrank Badges" width="57%"> 
+  <img src="./src/hackerrank-logo.jpg" alt="Hackerrank Logo" width="30%">
+</div>
+
+<!-- GitHub Metrics -->
+<div align="center">
+  <h3>GitHub Profile Metrics</h3>
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
+</div>
+
+<!-- Brasil - Minha Localização -->
+<div align="center">
+  <h3>Localização no Brasil</h3>
+  <p>Representação geográfica do Brasil com a minha localização:</p>
+  <pre><code class="geojson">
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "id": 1,
+          "properties": {
+            "ID": 0,
+            "Name": "Minha Localização"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-46.6333, -23.5505]  <!-- Coordenadas de São Paulo -->
+          }
+        }
+      ]
+    }
+  </code></pre>
+</div>
+
+<!-- Badges Section -->
+<div align="center">
+  <h3>Achievement Badges</h3>
+  <div>
+    <img src="src/badges_37-46.png" alt="Badges 37-46">
+    <img src="src/badges_25-36.png" alt="Badges 25-36">
+    <img src="src/badges_13-24.png" alt="Badges 13-24">
+    <img src="src/badges_1-12.png" alt="Badges 1-12">
+  </div>
+</div>
+
 
 <!--   my-skills -->
 
