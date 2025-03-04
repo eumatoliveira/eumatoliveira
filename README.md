@@ -27,12 +27,12 @@ This table showcases my skills and tools used for software development, automati
 
 ![eumatoliveira's Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![eumatoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 🎯 What I’m Currently Up To: Solid & Clean Code
 🛠 Building cool projects that make life easier!
 📚 Learning & improving new skills daily!
 🔥 Challenging myself to write cleaner and more efficient code!
+
+![eumatoliveira's Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 📫 Let’s talk!
 📩 Email: matheus.rob.oliveira@gmail.com
@@ -41,3 +41,5 @@ This table showcases my skills and tools used for software development, automati
 😄 Pronouns: He/Him
 
 🚀 Let's build something amazing together!
+
+![eumatoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=dark&show_icons=true&hide_border=true&layout=compact)
