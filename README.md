@@ -52,6 +52,18 @@ I'm passionate about technology and focused on growing quickly to a senior level
 | **Development Tools**     | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 | **Databases**             | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) |
 | **CI/CD & Cloud**         | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white) |
+
+   <!--machine-learning-->
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+   ```
+ 
 | **Automation & AI**       | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white) ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=Zapier&logoColor=white) ![Make](https://img.shields.io/badge/-Make-5E60CE?style=flat&logo=Make&logoColor=white) |
 | **Business & Marketing**  | ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=Google-Ads&logoColor=white) ![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-1877F2?style=flat&logo=Facebook&logoColor=white) ![CRM](https://img.shields.io/badge/-CRM-00A859?style=flat&logo=Salesforce&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-4CAF50?style=flat&logo=Google-Analytics&logoColor=white) |
 
