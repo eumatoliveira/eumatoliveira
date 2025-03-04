@@ -44,8 +44,11 @@ I'm passionate about technology and focused on quickly growing to a senior level
 
 ---
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=eumatoliveira" width="auto"></img>
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=eumatoliveira&show-other-skills=true" width="auto"></img>
 
 <!--   my-skills -->
 
