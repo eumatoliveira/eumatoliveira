@@ -1,5 +1,5 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Matthaus;Welcome+to+My+Profile!;Over+5+years+of+tech+and+business+experience;Always+learning+new+things;Full-stack+developer+and+growth+strategist;Automation+and+AI+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Matheus;Welcome+to+My+Profile!;Over+5+years+of+tech+and+business+experience;Always+learning+new+things;Full-stack+developer+and+growth+strategist;Automation+and+AI+enthusiast)](https://git.io/typing-svg)
 
 🚀 Evolving Junior Full Stack Developer
 
