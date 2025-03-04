@@ -25,7 +25,6 @@ Testing: Cypress
 
 This table showcases my skills and tools used for software development, automation, AI, and business growth strategies. 🚀
 
-![eumatoliveira's Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 🎯 What I’m Currently Up To: Solid & Clean Code
 🛠 Building cool projects that make life easier!
