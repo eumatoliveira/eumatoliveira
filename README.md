@@ -8,8 +8,6 @@
 |-------------|---------------|
 | ![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=radical&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=radical&layout=compact) |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eumatoliveira&theme=radical)
-
 ---
 
 🚀 **Evolving Junior Full Stack Developer**
