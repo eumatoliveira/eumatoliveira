@@ -44,6 +44,9 @@ I'm passionate about technology and focused on quickly growing to a senior level
 
 ---
 
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--   my-skills -->
 
 ### 🛠 **Skills & Tools**
