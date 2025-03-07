@@ -6,8 +6,7 @@
 <!--   stats + languages -->
 | **GitHub Stats** | **Top Languages** |
 |------------------|-------------------|
-| ![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=radical&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=radical&layout=compact) |
-
+| ![eumatoliveira's Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&theme=default&show_icons=true&hide_border=false&count_private=true)| ![eumatoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=default&show_icons=true&hide_border=false&layout=compact)
 ---
 
 🚀 **Evolving Junior Full Stack Developer**  
