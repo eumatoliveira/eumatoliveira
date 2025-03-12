@@ -15,7 +15,7 @@ I'm passionate about technology and focused on growing quickly to a senior level
 🔧 **Technologies & Current Studies**
 - **Back-end**: Ruby, .NET, Spring Boot  
 - **Front-end**: Angular, React  
-- **Testing**: Cypress  
+- **Testing**: Cypress, Gitlab  
 - **AI & Automation**: OpenAI, Zapier, Make
 
 💡 **Fun Fact**: I love debugging so much that I sometimes dream in code! 🧑‍💻💭
