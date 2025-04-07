@@ -27,21 +27,6 @@ I'm passionate about technology and focused on growing quickly to a senior level
 
 ---
 
-🎯 **What I’m Currently Up To:**
-- 🛠 Building cool projects that make life easier!
-- 📚 Learning & improving new skills daily!
-- 🔥 Challenging myself to write cleaner and more efficient code!
-
-📫 **Let’s talk!**
-- 📩 **Email**: matheus.rob.oliveira@gmail.com  
-- 🌎 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/matheus-oliveira-souzaa/)
-  
-😄 **Pronouns**: He/Him
-
-🚀 **Let's build something amazing together!**
-
----
-
 ### 🛠 **Skills & Tools**
 
 | **Category**             | **Technologies** |
