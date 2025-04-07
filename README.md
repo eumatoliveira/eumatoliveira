@@ -9,6 +9,17 @@
 | ![eumatoliveira's Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&theme=default&show_icons=true&hide_border=false&count_private=true)| ![eumatoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=default&show_icons=true&hide_border=false&layout=compact)
 ---
 
+🚀 **Evolving Junior Full Stack Developer**  
+I'm passionate about technology and focused on growing quickly to a senior level, delivering efficient, scalable, and high-quality code. Looking for challenges that allow me to enhance my skills and make a meaningful impact on projects.
+
+🔧 **Technologies & Current Studies**
+- **Back-end**: Ruby, .NET, Spring Boot  
+- **Front-end**: Angular, React  
+- **Testing**: Cypress, Gitlab  
+- **AI & Automation**: OpenAI, Zapier, Make
+
+💡 **Fun Fact**: I love debugging so much that I sometimes dream in code! 🧑‍💻💭
+
 
 ### 🛠 **Skills & Tools**
 
@@ -20,17 +31,6 @@
 | **CI/CD & Cloud**         | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white) |
 | **Automation & AI**       | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white) ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=Zapier&logoColor=white) ![Make](https://img.shields.io/badge/-Make-5E60CE?style=flat&logo=Make&logoColor=white) |
 | **Business & Marketing**  | ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=Google-Ads&logoColor=white) ![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-1877F2?style=flat&logo=Facebook&logoColor=white) ![CRM](https://img.shields.io/badge/-CRM-00A859?style=flat&logo=Salesforce&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-4CAF50?style=flat&logo=Google-Analytics&logoColor=white) |
-
-🚀 **Evolving Junior Full Stack Developer**  
-I'm passionate about technology and focused on growing quickly to a senior level, delivering efficient, scalable, and high-quality code. Looking for challenges that allow me to enhance my skills and make a meaningful impact on projects.
-
-🔧 **Technologies & Current Studies**
-- **Back-end**: Ruby, .NET, Spring Boot  
-- **Front-end**: Angular, React  
-- **Testing**: Cypress, Gitlab  
-- **AI & Automation**: OpenAI, Zapier, Make
-
-💡 **Fun Fact**: I love debugging so much that I sometimes dream in code! 🧑‍💻💭
 
 ---
 
