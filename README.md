@@ -9,18 +9,6 @@
 | ![eumatoliveira's Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&theme=default&show_icons=true&hide_border=false&count_private=true)| ![eumatoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=default&show_icons=true&hide_border=false&layout=compact)
 ---
 
-🚀 **Evolving Junior Full Stack Developer**  
-I'm passionate about technology and focused on growing quickly to a senior level, delivering efficient, scalable, and high-quality code. Looking for challenges that allow me to enhance my skills and make a meaningful impact on projects.
-
-🔧 **Technologies & Current Studies**
-- **Back-end**: Ruby, .NET, Spring Boot  
-- **Front-end**: Angular, React  
-- **Testing**: Cypress, Gitlab  
-- **AI & Automation**: OpenAI, Zapier, Make
-
-💡 **Fun Fact**: I love debugging so much that I sometimes dream in code! 🧑‍💻💭
-
-
 ### 🛠 **Skills & Tools**
 
 | **Category**             | **Technologies** |
