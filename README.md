@@ -1,3 +1,4 @@
+---
 <!--   my-ticker -->     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I+am+Matheus;Welcome+to+My+Profile!;Over+5+years+of+business+experience;Always+learning+new+things;Junior+Full-stack+developer+and+growth+strategist;Automation+and+AI+enthusiast)](https://git.io/typing-svg)
 
@@ -5,16 +6,10 @@
 
 <h1 align="center">Welcome to my GitHub 👋</h1>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@eumatoliveira?theme=rule34" alt="eumatoliveira" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 </div>
-
----
 
 ### 📊 Contribution Graph
 [![eumatoliveira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eumatoliveira&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
