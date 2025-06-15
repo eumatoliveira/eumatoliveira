@@ -3,10 +3,31 @@
 
 ---
 
-<!--   stats + languages -->
-| **GitHub Stats** | **Top Languages** |
-|------------------|-------------------|
-| ![eumatoliveira's Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&theme=default&show_icons=true&hide_border=false&count_private=true)| ![eumatoliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&theme=default&show_icons=true&hide_border=false&layout=compact)
+<h1 align="center">Welcome to my GitHub 👋</h1>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@eumatoliveira?theme=rule34" alt="eumatoliveira" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+</div>
+
+---
+
+### 📊 Contribution Graph
+[![eumatoliveira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eumatoliveira&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### ⚙️ GitHub Stats (Extras)
+
+- 🔥 Total Commits (2024): **[ver no card acima]**
+- ⭐ Total Stars Earned: **[ver nos repositórios]**
+- 🛠️ Issues abertas/fechadas: **[ver manualmente]**
+- 📦 Total de PRs: **[ver no perfil]**
+
 ---
 
 ### 🛠 **Skills & Tools**
@@ -41,5 +62,8 @@ graph TD;
     machine-learning --> Feature-Engineering["Engenharia de Atributos"]
     machine-learning --> Evaluation-Metrics["Métricas de Avaliação"]
     machine-learning --> Deployment["Implantação"]
+````
+
+> Feito com 💻 por [@eumatoliveira](https://github.com/eumatoliveira)
 
 
