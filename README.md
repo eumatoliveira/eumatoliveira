@@ -19,12 +19,12 @@
 
 ---
 
-### ⚙️ GitHub Stats (Extras)
+## 📌 GitHub Highlights
 
 - 🔥 **Commits (2024):** veja no gráfico acima  
 - 🌟 **Stars recebidas:** confira nos repositórios  
 - 🧩 **Issues & PRs:** disponíveis no perfil  
-- 💼 **Projetos em andamento:** inovação, IA e automação de negócios  
+- 💼 **Projetos em andamento:** inovação, IA e automação de negócios
 
 ---
 
@@ -46,14 +46,23 @@
 
 ---
 
-🌟 Sobre Mim
-Sou Matheus Oliveira, desenvolvedor full-stack e estrategista de crescimento digital, com mais de 5 anos de experiência em tecnologia, marketing e automação.
-Apaixonado por IA, sistemas distribuídos, cloud computing e inovação empresarial, busco criar soluções que unem lógica, performance e impacto real.
+## 🛠 Skills & Tools
 
-🎯 Missão: conectar tecnologia e estratégia para gerar resultados exponenciais.
-💬 Idiomas: 🇺🇸 Inglês fluente • 🇪🇸 Espanhol intermediário • 🇧🇷 Português nativo.
-📚 Estudo atual: CMMI, Python, Data Science e arquiteturas corporativas de IA.
+**Languages / IDEs:** JavaScript, TypeScript, Node.js, React, C, C++, C#, PHP, Go, Scala  
+**Dev Tools:** VS Code, Visual Studio, Docker, Git  
+**Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
+**CI/CD & Cloud:** GitHub Actions, Azure, AWS, Google Cloud  
+**Automation & AI:** ChatGPT, OpenAI, Zapier, Make  
+**Business & Marketing:** Google Ads, Meta Ads, CRM, SEO  
 
-💡 “Technology is only powerful when driven by intelligence, purpose, and creativity.” — Matheus Oliveira
+---
 
-📍 GitHub - eumatoliveira
+## 🌟 About Me
+
+Sou **Matheus Oliveira**, desenvolvedor full-stack e estrategista de crescimento digital com mais de **5 anos de experiência em tecnologia, marketing e automação**.  
+
+- 🎯 **Missão:** conectar tecnologia e estratégia para gerar resultados exponenciais  
+- 💬 **Idiomas:** Inglês fluente 🇺🇸 • Espanhol intermediário 🇪🇸 • Português nativo 🇧🇷  
+- 📚 **Estudos atuais:** CMMI, Python, Data Science, Arquiteturas corporativas de IA  
+
+💡 *“Technology is only powerful when driven by intelligence, purpose, and creativity.” — Matheus Oliveira*
