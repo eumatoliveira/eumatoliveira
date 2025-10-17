@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-Sou **Matheus Oliveira**, desenvolvedor full-stack e estrategista de crescimento digital, com mais de **5 anos de experiência em tecnologia, marketing e automação**.  
+Sou **Matheus Oliveira**, desenvolvedor full-stack e estrategista de crescimento digital, com mais de **4 anos de experiência em projetos práticos tecnologia, marketing e automação**.  
 
 - 🎯 **Missão:** conectar tecnologia e estratégia para gerar resultados exponenciais  
 - 💬 **Idiomas:** Inglês fluente 🇺🇸 • Espanhol intermediário 🇪🇸 • Português nativo 🇧🇷  
