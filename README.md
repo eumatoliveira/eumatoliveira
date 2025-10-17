@@ -1,37 +1,30 @@
 ---
-<!--   my-ticker -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Matheus+Oliveira;Welcome+to+My+Profile!;Over+5+Years+of+Business+Experience;Full-Stack+Developer+%26+Growth+Strategist;Automation+and+AI+Enthusiast;Always+Learning+%26+Building+New+Things!)](https://git.io/typing-svg)
+
+## 🌟 About Me
+
+Sou **Matheus Oliveira**, desenvolvedor full-stack e estrategista de crescimento digital, com mais de **5 anos de experiência em tecnologia, marketing e automação**.  
+
+- 🎯 **Missão:** conectar tecnologia e estratégia para gerar resultados exponenciais  
+- 💬 **Idiomas:** Inglês fluente 🇺🇸 • Espanhol intermediário 🇪🇸 • Português nativo 🇧🇷  
+- 📚 **Estudos atuais:** CMMI, Python, Data Science, Arquiteturas corporativas de IA  
+
+💡 *“Technology is only powerful when driven by intelligence, purpose, and creativity.” — Matheus Oliveira*
 
 ---
 
 <h1 align="center">🚀 Welcome to my GitHub Universe 🌍</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=tokyonight&hide_border=true" width="400"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="400"/> 
 </div>
 
 ---
 
-### 📈 Contribution Graph
-
-[![eumatoliveira's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eumatoliveira&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📌 GitHub Highlights
-
-- 🔥 **Commits (2024):** veja no gráfico acima  
-- 🌟 **Stars recebidas:** confira nos repositórios  
-- 🧩 **Issues & PRs:** disponíveis no perfil  
-- 💼 **Projetos em andamento:** inovação, IA e automação de negócios
-
----
-
-### 🛠 **Skills & Tools**
+### 🛠 Skills & Tools
 
 | **Categoria**             | **Tecnologias** |
-|----------------------------|------------------|
+|----------------------------|----------------|
 | **Linguagens / IDEs**     | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=Scala&logoColor=white) |
 | **Ferramentas de Dev**     | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 | **Bancos de Dados**        | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) |
@@ -41,28 +34,19 @@
 
 ---
 
-<!--   green snake -->
+### 📈 GitHub Activity
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=eumatoliveira&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🛠 Skills & Tools
+### 📌 GitHub Highlights
 
-**Languages / IDEs:** JavaScript, TypeScript, Node.js, React, C, C++, C#, PHP, Go, Scala  
-**Dev Tools:** VS Code, Visual Studio, Docker, Git  
-**Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
-**CI/CD & Cloud:** GitHub Actions, Azure, AWS, Google Cloud  
-**Automation & AI:** ChatGPT, OpenAI, Zapier, Make  
-**Business & Marketing:** Google Ads, Meta Ads, CRM, SEO  
+- 🔥 **Commits (2024):** veja no gráfico acima  
+- 🌟 **Stars recebidas:** confira nos repositórios  
+- 🧩 **Issues & PRs:** disponíveis no perfil  
+- 💼 **Projetos em andamento:** inovação, IA e automação de negócios
 
 ---
-
-## 🌟 About Me
-
-Sou **Matheus Oliveira**, desenvolvedor full-stack e estrategista de crescimento digital com mais de **5 anos de experiência em tecnologia, marketing e automação**.  
-
-- 🎯 **Missão:** conectar tecnologia e estratégia para gerar resultados exponenciais  
-- 💬 **Idiomas:** Inglês fluente 🇺🇸 • Espanhol intermediário 🇪🇸 • Português nativo 🇧🇷  
-- 📚 **Estudos atuais:** CMMI, Python, Data Science, Arquiteturas corporativas de IA  
-
-💡 *“Technology is only powerful when driven by intelligence, purpose, and creativity.” — Matheus Oliveira*
