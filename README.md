@@ -117,9 +117,6 @@ I'm Matheus Oliveira, a full-stack developer and digital growth strategist, with
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eumatoliveira&theme=tokyo-night&title_color=61DAFB&hide_border=true&bg_color=1A1B27" alt="Contribution Graph"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
