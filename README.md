@@ -1,72 +1,161 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTuEjBf/giphy.gif" width="100%" alt="Coding Banner"/>
+</div>
+
 <h1 align="center">🚀 Welcome to my GitHub Universe 🌍</h1>
 
 <p align="center">
-  Technology is only powerful when driven by intelligence, purpose, and creativity.
+  <i>“Technology is only powerful when driven by intelligence, purpose, and creativity.”</i>
 </p>
+<br>
 
----
-
-## 🧑‍💻 Sobre Mim / 🌟 About Me
+## 🧑‍💻 Sobre Mim / About Me
 
 <details open>
-<summary><strong>Português (PT-BR)</strong></summary>
-
-Sou **Matheus Oliveira**, desenvolvedor **full-stack** e **estrategista de crescimento digital**, com mais de **4 anos de projetos práticos em tecnologia, marketing e automação**.
+<summary><strong>Português (PT-BR)</strong> 🇧🇷</summary>
+<br>
+Sou Matheus Oliveira, desenvolvedor full-stack e estrategista de crescimento digital, com mais de 4 anos de projetos práticos em tecnologia, marketing e automação.
 
 * 🎯 **Missão:** Conectar tecnologia e estratégia para gerar resultados exponenciais.
 * 💬 **Idiomas:** Inglês fluente 🇺🇸 • Espanhol intermediário 🇪🇸 • Português nativo 🇧🇷
 * 📚 **Estudos atuais:** CMMI, Python, Data Science, Arquiteturas corporativas de IA.
-
+<br>
 </details>
 
-<details open>
-<summary><strong>English (EN-US)</strong></summary>
-
-I'm **Matheus Oliveira**, a **full-stack developer** and **digital growth strategist**, with over **4 years of practical projects in technology, marketing, and automation**.
+<details>
+<summary><strong>English (EN-US)</strong> 🇺🇸</summary>
+<br>
+I'm Matheus Oliveira, a full-stack developer and digital growth strategist, with over 4 years of practical projects in technology, marketing, and automation.
 
 * 🎯 **Mission:** Connect technology and strategy to drive exponential results.
 * 💬 **Languages:** Fluent English 🇺🇸 • Intermediate Spanish 🇪🇸 • Native Portuguese 🇧🇷
 * 📚 **Current Studies:** CMMI, Python, Data Science, Enterprise AI Architectures.
-
+<br>
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="Top Languages" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=61DAFB&text_color=FFFFFF&title_color=61DAFB" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB&bg_color=1A1B27" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=61DAFB&text_color=FFFFFF&title_color=61DAFB&bg_color=1A1B27" alt="GitHub Stats" height="150"/>
 </div>
 
 ---
 
-### 🛠 Habilidades & Ferramentas / Skills & Tools
+## 🛠 Habilidades & Ferramentas / Skills & Tools
 
-| **Categoria / Category** | **Tecnologias / Technologies** |
-| :------------------------- | :----------------------------- |
-| **Linguagens / IDEs** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=Scala&logoColor=white) |
-| **Ferramentas de Dev / Dev Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-| **Bancos de Dados / Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white) |
-| **CI/CD & Cloud** | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white) |
-| **Automação & IA / Automation & AI** | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=OpenAI&logoColor=white) ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=Zapier&logoColor=white) ![Make](https://img.shields.io/badge/-Make-5E60CE?style=flat&logo=Make&logoColor=white) |
-| **Negócios & Marketing / Business & Marketing** | ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=Google-Ads&logoColor=white) ![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-1877F2?style=flat&logo=Facebook&logoColor=white) ![CRM](https://img.shields.io/badge/-CRM-00A859?style=flat&logo=Salesforce&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-4CAF50?style=flat&logo=Google-Analytics&logoColor=white) |
+<details>
+<summary><strong>Linguagens / IDEs</strong></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" alt="Scala"/>
+</p>
+</details>
+
+<details>
+<summary><strong>Ferramentas de Dev / Dev Tools</strong></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+</details>
+
+<details>
+<summary><strong>Bancos de Dados / Databases</strong></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite"/>
+</p>
+</details>
+
+<details>
+<summary><strong>CI/CD & Cloud</strong></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="Google Cloud"/>
+</p>
+</details>
+
+<details>
+<summary><strong>Automação & IA / Automation & AI</strong></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/-ChatGPT-444444?style=for-the-badge&logo=ChatGPT" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=Zapier&logoColor=white" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/-Make-5E60CE?style=for-the-badge&logo=Make&logoColor=white" alt="Make"/>
+</p>
+</details>
+
+<details>
+<summary><strong>Negócios & Marketing / Business & Marketing</strong></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=for-the-badge&logo=Google-Ads&logoColor=white" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/-Meta%20Ads-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Meta Ads"/>
+  <img src="https://img.shields.io/badge/-CRM-00A859?style=for-the-badge&logo=Salesforce&logoColor=white" alt="CRM"/>
+  <img src="https://img.shields.io/badge/-SEO-4CAF50?style=for-the-badge&logo=Google-Analytics&logoColor=white" alt="SEO"/>
+</p>
+</details>
 
 ---
 
-### 📈 Atividade no GitHub / GitHub Activity
+## 📈 Atividade no GitHub / GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eumatoliveira&theme=tokyo-night&title_color=61DAFB" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eumatoliveira&theme=tokyo-night&title_color=61DAFB&hide_border=true&bg_color=1A1B27" alt="Contribution Graph"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-### 📌 Destaques do GitHub / GitHub Highlights
+## 📌 Destaques do GitHub / GitHub Highlights
 
-| **Português (PT-BR)** | **English (EN-US)** |
-| :--- | :--- |
-| 🔥 **Commits (2024):** Veja no gráfico acima. | 🔥 **Commits (2024):** Check the graph above. |
-| 🌟 **Stars recebidas:** Confira nos repositórios. | 🌟 **Stars received:** See in the repositories. |
-| 🧩 **Issues & PRs:** Disponíveis no perfil. | 🧩 **Issues & PRs:** Available on the profile. |
-| 💼 **Projetos em andamento:** Inovação, IA e automação de negócios. | 💼 **Ongoing Projects:** Innovation, AI, and business automation. |
+<details open>
+<summary><strong>Português (PT-BR)</strong> 🇧🇷</summary>
+<ul>
+  <li>🔥 <strong>Commits (2024):</strong> Veja no gráfico acima.</li>
+  <li>🌟 <strong>Stars recebidas:</strong> Confira nos repositórios.</li>
+  <li>🧩 <strong>Issues & PRs:</strong> Disponíveis no perfil.</li>
+  <li>💼 <strong>Projetos em andamento:</strong> Inovação, IA e automação de negócios.</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>English (EN-US)</strong> 🇺🇸</summary>
+<ul>
+  <li>🔥 <strong>Commits (2024):</strong> Check the graph above.</li>
+  <li>🌟 <strong>Stars received:</strong> See in the repositories.</li>
+  <li>🧩 <strong>Issues & PRs:</strong> Available on the profile.</li>
+  <li>💼 <strong>Ongoing Projects:</strong> Innovation, AI, and business automation.</li>
+</ul>
+</details>
 
 ---
+
+## 📬 Conecte-se Comigo / Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-oliveira-martech/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:matheus.rob.oliveira@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/+5511994481861" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
