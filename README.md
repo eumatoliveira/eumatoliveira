@@ -38,7 +38,7 @@
 
 ---
 
-# 📌 Sobre Mim
+# 📌 Sobre Mim / Tell me about yourself? Click En-us 
 
 <details open>
 <summary><strong>🇧🇷 Português (PT-BR)</strong></summary>
