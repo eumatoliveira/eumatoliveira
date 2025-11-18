@@ -1,158 +1,144 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTuEjBf/giphy.gif" width="100%" alt="Coding Banner"/>
-</div>
-
-<h1 align="center">🚀 Welcome to my GitHub Universe 🌍</h1>
+<h1 align="center">Olá, eu sou Matheus Oliveira Souza 🚀</h1>
 
 <p align="center">
-  <i>“Technology is only powerful when driven by intelligence, purpose, and creativity.”</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python+%7C+.NET;Shopify+Expert+%7C+Data+%26+Automation;Martech+%26+Growth+Engineer" />
 </p>
-<br>
 
-## 🧑‍💻 Sobre Mim / About Me
+<p align="center">
+  <i>“Profissionais de tecnologia gastam até <strong>40% do tempo integrando sistemas</strong>. Eu existo para acabar com esse atrito.”</i>
+</p>
 
-<details open>
-<summary><strong>Português (PT-BR)</strong> 🇧🇷</summary>
-<br>
-Sou Matheus Oliveira, desenvolvedor full-stack e estrategista de crescimento digital, com mais de 4 anos de projetos práticos em tecnologia, marketing e automação.
-
-* 🎯 **Missão:** Conectar tecnologia e estratégia para gerar resultados exponenciais.
-* 💬 **Idiomas:** Inglês fluente 🇺🇸 • Espanhol intermediário 🇪🇸 • Português nativo 🇧🇷
-* 📚 **Estudos atuais:** CMMI, Python, Data Science, Arquiteturas corporativas de IA.
-<br>
-</details>
-
-<details>
-<summary><strong>English (EN-US)</strong> 🇺🇸</summary>
-<br>
-I'm Matheus Oliveira, a full-stack developer and digital growth strategist, with over 4 years of practical projects in technology, marketing, and automation.
-
-* 🎯 **Mission:** Connect technology and strategy to drive exponential results.
-* 💬 **Languages:** Fluent English 🇺🇸 • Intermediate Spanish 🇪🇸 • Native Portuguese 🇧🇷
-* 📚 **Current Studies:** CMMI, Python, Data Science, Enterprise AI Architectures.
-<br>
-</details>
-
----
+<p align="center">
+  <strong>Desenvolvedor Full Stack • São Bernardo do Campo, SP • Júnior/Pleno • Open to Work</strong>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB&bg_color=1A1B27" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=61DAFB&text_color=FFFFFF&title_color=61DAFB&bg_color=1A1B27" alt="GitHub Stats" height="150"/>
+
+<a href="https://www.linkedin.com/in/matheus-oliveira-martech/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://matheus-oliveira-martech-portifolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:matheus.rob.oliveira@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5511994481861">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
----
-
-## 🛠 Habilidades & Ferramentas / Skills & Tools
-
-<details>
-<summary><strong>Linguagens / IDEs</strong></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white" alt="Scala"/>
-</p>
-</details>
-
-<details>
-<summary><strong>Ferramentas de Dev / Dev Tools</strong></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-</details>
-
-<details>
-<summary><strong>Bancos de Dados / Databases</strong></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" alt="SQLite"/>
-</p>
-</details>
-
-<details>
-<summary><strong>CI/CD & Cloud</strong></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="Google Cloud"/>
-</p>
-</details>
-
-<details>
-<summary><strong>Automação & IA / Automation & AI</strong></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/-ChatGPT-444444?style=for-the-badge&logo=ChatGPT" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=Zapier&logoColor=white" alt="Zapier"/>
-  <img src="https://img.shields.io/badge/-Make-5E60CE?style=for-the-badge&logo=Make&logoColor=white" alt="Make"/>
-</p>
-</details>
-
-<details>
-<summary><strong>Negócios & Marketing / Business & Marketing</strong></summary>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=for-the-badge&logo=Google-Ads&logoColor=white" alt="Google Ads"/>
-  <img src="https://img.shields.io/badge/-Meta%20Ads-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Meta Ads"/>
-  <img src="https://img.shields.io/badge/-CRM-00A859?style=for-the-badge&logo=Salesforce&logoColor=white" alt="CRM"/>
-  <img src="https://img.shields.io/badge/-SEO-4CAF50?style=for-the-badge&logo=Google-Analytics&logoColor=white" alt="SEO"/>
-</p>
-</details>
-
----
-
-## 📈 Atividade no GitHub / GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eumatoliveira&theme=tokyo-night&title_color=61DAFB&hide_border=true&bg_color=1A1B27" alt="Contribution Graph"/>
+  <img src="https://komarev.com/ghpvc/?username=eumatoliveira&label=Visualizações+do+perfil&color=61DAFB&style=for-the-badge" />
 </p>
 
 ---
 
-## 📌 Destaques do GitHub / GitHub Highlights
+# 📌 Sobre Mim
 
 <details open>
-<summary><strong>Português (PT-BR)</strong> 🇧🇷</summary>
-<ul>
-  <li>🔥 <strong>Commits (2024):</strong> Veja no gráfico acima.</li>
-  <li>🌟 <strong>Stars recebidas:</strong> Confira nos repositórios.</li>
-  <li>🧩 <strong>Issues & PRs:</strong> Disponíveis no perfil.</li>
-  <li>💼 <strong>Projetos em andamento:</strong> Inovação, IA e automação de negócios.</li>
-</ul>
+<summary><strong>🇧🇷 Português (PT-BR)</strong></summary>
+
+Sou Desenvolvedor **Full Stack** com visão $360^{\circ}$ — uno a técnica de **Back-end** (Python, C#, .NET, Node.js) e a interatividade do **Front-end** (React, JS) com uma camada estratégica de **Dados (Power BI, SQL, Cypher)** e **Martech/Automação**. Minha carreira é focada em eliminar o atrito de comunicação entre sistemas para entregar **ecossistemas digitais** e **dados acionáveis**.
+
+**Destaques profissionais**
+* **Shopify Expert:** Otimização de loja (UX/SEO) e desenvolvimento de **Custom Apps**.
+* **Inovação:** Cofundador da **NewAl** e criador do projeto **TaskPro** (gestão com IA), em parceria com o Microsoft Reactor.
+* **Growth & Marketing:** Experiência em campanhas de alta performance (Meta Ads, Google Ads), coordenando times e gerindo mais de 10 marcas.
+* **Linguagens:** Proficiência em **Inglês** (Full Professional) e experiência com outras 5 línguas.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas (Anhembi Morumbi — 2025)** e busco aplicar minha mentalidade de **'menos atrito, mais resultado'**.
+
+📌 Busco vagas Full Stack **Júnior/Pleno (PJ/CLT)**.
+<b>“Menos atrito, mais resultado.”</b>
 </details>
 
 <details>
-<summary><strong>English (EN-US)</strong> 🇺🇸</summary>
-<ul>
-  <li>🔥 <strong>Commits (2024):</strong> Check the graph above.</li>
-  <li>🌟 <strong>Stars received:</strong> See in the repositories.</li>
-  <li>🧩 <strong>Issues & PRs:</strong> Available on the profile.</li>
-  <li>💼 <strong>Ongoing Projects:</strong> Innovation, AI, and business automation.</li>
-</ul>
+<summary><strong>🇺🇸 English (EN-US)</strong></summary>
+
+I’m a Full Stack Developer with a $360^{\circ}$ skill set — combining robust **Back-end** (Python, C#, .NET, Node.js) with modern **Front-end** (React, JS), a strategic layer of **Data (Power BI, SQL, Cypher)**, and **Martech/Automation**. My focus is on eliminating communication friction between systems to deliver **digital ecosystems** and **actionable data**.
+
+**Key Highlights**
+* **Shopify Expert:** Store optimization (UX/SEO) and development of **Custom Apps**.
+* **Innovation:** Co-founder of **NewAl** and creator of the **TaskPro** project (AI management tool), in partnership with Microsoft Reactor.
+* **Growth & Marketing:** Experience in high-performance campaigns (Meta Ads, Google Ads), coordinating teams, and managing over 10 brands.
+* **Languages:** **English** proficiency (Full Professional) and experience with 5 other languages.
+
+Currently studying **Systems Analysis & Development (Anhembi Morumbi — 2025)** and looking to apply my **'less friction, more results'** mindset.
+
+📌 Open to **Junior/Mid Full Stack Developer** roles.
+<b>“Less friction, more results.”</b>
 </details>
 
 ---
 
-## 📬 Conecte-se Comigo / Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-oliveira-martech/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:matheus.rob.oliveira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/+5511994481861" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
+# 🛠️ Habilidades & Ferramentas
+
+<details open>
+<summary><strong>Tech Stack & Competências</strong></summary>
+
+| Área | Tecnologias Chave | Competências Adicionais |
+| :--- | :--- | :--- |
+| **Frontend** | React, JavaScript, HTML, CSS, Liquid | Figma, Responsividade, UX/UI Optimization |
+| **Backend** | Python, Node.js, C#, .NET | SQL, API Development (REST), Cypher, Automação |
+| **Dados & Cloud** | Microsoft Power BI, Azure, Data Management | KPIs, Mabis System |
+| **E-commerce** | Shopify, Custom Apps, API Integration | Liquid, Otimização de Performance, SEO |
+| **Martech & Growth** | Meta Ads, Google Ads, Copywriting, SEO | Marketing Management, Estratégia Digital, Oratória |
+| **Soft Skills** | Teamwork and Leadership | Oratória, Liderança de Equipes, Contabilidade Financeira |
+</details>
+
+---
+
+# 💼 Experiência Profissional
+
+**Mansilla Consultoria em TI | Sócio proprietário** (Jan/2020 - Presente)
+* Aumento de receita de clientes via estratégias de **marketing digital**.
+* Campanhas de **Meta Ads, Google Ads** e Growth orientadas a performance.
+
+**NewAl | Cofundador** (Dez/2024 - Ago/2025)
+* Desenvolvimento do **TaskPro**, ferramenta de gestão de tempo com IA.
+* Foco em Cloud Computing, Segurança e Automação.
+* Parceria com o **Microsoft Reactor São Paulo**.
+
+**Molduraviva | Desenvolvedor Front End Junior/Full Stack** (Fev/2024 - Dez/2024)
+* Otimizou a performance e escalabilidade da loja Shopify usando **Liquid, HTML, CSS, JavaScript** e **Back-end (API & data management)**.
+* Desenvolvimento de **Custom Apps Shopify** para automação de lógica de negócios.
+* Integração de APIs para logística e CRM, melhorando a eficiência operacional.
+
+**Bilhon | Desenvolvedor Front End Pleno** (Set/2024 - Dez/2024)
+* Conversão de design do **Figma** para **HTML, CSS e JavaScript**, garantindo responsividade.
+* Desenvolvimento de Landing Page de alta conversão para lançamento digital.
+
+**Grupo ZNTT | Executivo de Marketing** (Abr/2025 - Abr/2025)
+* Coordenação de **10 marcas pessoais simultaneamente**.
+* Recrutamento e gestão de times de copy, design e tráfego pago.
+
+---
+
+# 🎓 Formação & Certificações
+
+### Formação Acadêmica
+* **Associate's degree, Análise de Sistemas de Computação**
+    * Universidade Anhembi Morumbi (Jun/2022 - Abr/2025)
+* **Ensino Médio Profissionalizante - Aluno Alumni**
+    * Instituto PROA (Set/2025 - Nov/2025)
+
+### Principais Certificações
+* **Microsoft 50 Anos** - Computação em Nuvem com **Azure**
+* **ENGLISH | HIGH ADVANCED LEVEL**
+* **Teamwork and Leadership**
+* **css developer training**
+
+---
+
+# 🌎 Idiomas
+
+| Idioma | Nível de Proficiência |
+| :--- | :--- |
+| **Português** | Nativo ou Bilíngue |
+| **Inglês** | Full Professional |
+| **Espanhol** | Limited Working |
