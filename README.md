@@ -1,5 +1,10 @@
 <h1 align="center">Olá, eu sou Matheus Oliveira Souza 🚀</h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&langs_count=8)
+
+----
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python+%7C+.NET;Shopify+Expert+%7C+Data+%26+Automation;Martech+%26+Growth+Engineer" />
 </p>
