@@ -1,149 +1,341 @@
-<h1 align="center">Olá, eu sou Matheus Oliveira Souza 🚀</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&langs_count=8)
-
-----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python+%7C+.NET;Shopify+Expert+%7C+Data+%26+Automation;Martech+%26+Growth+Engineer" />
-</p>
-
-<p align="center">
-  <i>“Profissionais de tecnologia gastam até <strong>40% do tempo integrando sistemas</strong>. Eu existo para acabar com esse atrito.”</i>
-</p>
-
-<p align="center">
-  <strong>Desenvolvedor Full Stack • São Bernardo do Campo, SP • Júnior/Pleno • Open to Work</strong>
-</p>
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/matheus-oliveira-martech/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# 👋 Matheus Oliveira Souza
 
-<a href="https://matheus-oliveira-martech-portifolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+### Full Stack Developer | Martech Engineer | System Integrator
 
-<a href="mailto:matheus.rob.oliveira@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Building+Digital+Ecosystems;React+%7C+Node.js+%7C+Python+%7C+.NET;Shopify+Expert+%7C+Data+Automation;Reducing+Friction%2C+Amplifying+Results" alt="Typing Animation" />
 
-<a href="https://wa.me/5511994481861">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-martech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-oliveira-martech-portifolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.rob.oliveira@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511994481861)
+
+![Profile Views](https://komarev.com/ghpvc/?username=eumatoliveira&label=Profile+Views&color=61DAFB&style=for-the-badge)
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eumatoliveira&label=Visualizações+do+perfil&color=61DAFB&style=for-the-badge" />
-</p>
+---
+
+## 🎯 Professional Philosophy
+
+> **"Tech professionals waste up to 40% of their time integrating systems. I exist to eliminate that friction."**
+
+I architect solutions that bridge the gap between business logic and technical execution, transforming fragmented systems into cohesive digital ecosystems.
 
 ---
 
-# 📌 Sobre Mim / Tell me about yourself? Click En-us 
+## 👨‍💻 About Me
 
 <details open>
-<summary><strong>🇧🇷 Português (PT-BR)</strong></summary>
+<summary><b>🇧🇷 Português (PT-BR)</b></summary>
 
-Sou Desenvolvedor **Full Stack** com visão $360^{\circ}$ — uno a técnica de **Back-end** (Python, C#, .NET, Node.js) e a interatividade do **Front-end** (React, JS) com uma camada estratégica de **Dados (Power BI, SQL, Cypher)** e **Martech/Automação**. Minha carreira é focada em eliminar o atrito de comunicação entre sistemas para entregar **ecossistemas digitais** e **dados acionáveis**.
+<br>
 
-**Destaques profissionais**
-* **Shopify Expert:** Otimização de loja (UX/SEO) e desenvolvimento de **Custom Apps**.
-* **Inovação:** Cofundador da **NewAl** e criador do projeto **TaskPro** (gestão com IA), em parceria com o Microsoft Reactor.
-* **Growth & Marketing:** Experiência em campanhas de alta performance (Meta Ads, Google Ads), coordenando times e gerindo mais de 10 marcas.
-* **Linguagens:** Proficiência em **Inglês** (Full Professional) e experiência com outras 5 línguas.
+Sou um **Desenvolvedor Full Stack** com visão sistêmica completa, especializado em eliminar atritos entre tecnologias e processos. Minha abordagem une:
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas (Anhembi Morumbi — 2025)** e busco aplicar minha mentalidade de **'menos atrito, mais resultado'**.
+- **Backend robusto** → Python, C#, .NET, Node.js
+- **Frontend moderno** → React, JavaScript, TypeScript
+- **Camada estratégica de dados** → Power BI, SQL, Cypher
+- **Automação e Martech** → Integração de APIs, workflows inteligentes
 
-📌 Busco vagas Full Stack **Júnior/Pleno (PJ/CLT)**.
-<b>“Menos atrito, mais resultado.”</b>
+### 🌟 Diferenciais Competitivos
+
+**🛍️ Shopify Specialist**
+- Desenvolvimento de Custom Apps escaláveis
+- Otimização de performance (Core Web Vitals)
+- Arquitetura de integrações complexas (ERP, CRM, Logística)
+
+**🚀 Inovação & Empreendedorismo**
+- **Cofundador da NewAl** - Soluções de IA para gestão empresarial
+- **Criador do TaskPro** - Sistema de gestão de tempo com IA (parceria Microsoft Reactor)
+- Mentalidade de produto e ownership de ponta a ponta
+
+**📊 Growth Engineering**
+- Experiência gerenciando 10+ marcas simultaneamente
+- Campanhas de alta performance (Meta Ads, Google Ads)
+- Data-driven decision making com dashboards personalizados
+
+**🌐 Competência Multilíngue**
+- Inglês Full Professional
+- Experiência com 6 idiomas (incluindo Espanhol)
+
+### 🎓 Formação Atual
+**Análise e Desenvolvimento de Sistemas** - Anhembi Morumbi (2025)
+
+### 💼 Status
+🟢 **Open to Work** | Full Stack Developer (Júnior/Pleno) | PJ/CLT | Híbrido/Remoto
+
 </details>
 
 <details>
-<summary><strong>🇺🇸 English (EN-US)</strong></summary>
+<summary><b>🇺🇸 English (EN-US)</b></summary>
 
-I’m a Full Stack Developer with a $360^{\circ}$ skill set — combining robust **Back-end** (Python, C#, .NET, Node.js) with modern **Front-end** (React, JS), a strategic layer of **Data (Power BI, SQL, Cypher)**, and **Martech/Automation**. My focus is on eliminating communication friction between systems to deliver **digital ecosystems** and **actionable data**.
+<br>
 
-**Key Highlights**
-* **Shopify Expert:** Store optimization (UX/SEO) and development of **Custom Apps**.
-* **Innovation:** Co-founder of **NewAl** and creator of the **TaskPro** project (AI management tool), in partnership with Microsoft Reactor.
-* **Growth & Marketing:** Experience in high-performance campaigns (Meta Ads, Google Ads), coordinating teams, and managing over 10 brands.
-* **Languages:** **English** proficiency (Full Professional) and experience with 5 other languages.
+I'm a **Full Stack Developer** with a holistic systems perspective, specializing in eliminating friction between technologies and processes. My approach combines:
 
-Currently studying **Systems Analysis & Development (Anhembi Morumbi — 2025)** and looking to apply my **'less friction, more results'** mindset.
+- **Robust Backend** → Python, C#, .NET, Node.js
+- **Modern Frontend** → React, JavaScript, TypeScript
+- **Strategic Data Layer** → Power BI, SQL, Cypher
+- **Automation & Martech** → API Integration, intelligent workflows
 
-📌 Open to **Junior/Mid Full Stack Developer** roles.
-<b>“Less friction, more results.”</b>
+### 🌟 Competitive Advantages
+
+**🛍️ Shopify Specialist**
+- Scalable Custom App development
+- Performance optimization (Core Web Vitals)
+- Complex integration architecture (ERP, CRM, Logistics)
+
+**🚀 Innovation & Entrepreneurship**
+- **NewAl Co-founder** - AI solutions for business management
+- **TaskPro Creator** - AI-powered time management system (Microsoft Reactor partnership)
+- Product mindset with end-to-end ownership
+
+**📊 Growth Engineering**
+- Experience managing 10+ brands simultaneously
+- High-performance campaigns (Meta Ads, Google Ads)
+- Data-driven decision making with custom dashboards
+
+**🌐 Multilingual Proficiency**
+- Full Professional English
+- Experience with 6 languages (including Spanish)
+
+### 🎓 Current Education
+**Systems Analysis & Development** - Anhembi Morumbi (2025)
+
+### 💼 Status
+🟢 **Open to Work** | Full Stack Developer (Junior/Mid-level) | Contractor/Employee | Hybrid/Remote
+
 </details>
 
 ---
 
-# 🛠️ Habilidades & Ferramentas
+## 🛠️ Technical Arsenal
 
-<details open>
-<summary><strong>Tech Stack & Competências</strong></summary>
+<div align="center">
 
-| Área | Tecnologias Chave | Competências Adicionais |
-| :--- | :--- | :--- |
-| **Frontend** | React, JavaScript, HTML, CSS, Liquid | Figma, Responsividade, UX/UI Optimization |
-| **Backend** | Python, Node.js, C#, .NET | SQL, API Development (REST), Cypher, Automação |
-| **Dados & Cloud** | Microsoft Power BI, Azure, Data Management | KPIs, Mabis System |
-| **E-commerce** | Shopify, Custom Apps, API Integration | Liquid, Otimização de Performance, SEO |
-| **Martech & Growth** | Meta Ads, Google Ads, Copywriting, SEO | Marketing Management, Estratégia Digital, Oratória |
-| **Soft Skills** | Teamwork and Leadership | Oratória, Liderança de Equipes, Contabilidade Financeira |
-</details>
+### Core Technologies
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-# 💼 Experiência Profissional
+### Frontend & Design
 
-**Mansilla Consultoria em TI | Sócio proprietário** (Jan/2020 - Presente)
-* Aumento de receita de clientes via estratégias de **marketing digital**.
-* Campanhas de **Meta Ads, Google Ads** e Growth orientadas a performance.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**NewAl | Cofundador** (Dez/2024 - Ago/2025)
-* Desenvolvimento do **TaskPro**, ferramenta de gestão de tempo com IA.
-* Foco em Cloud Computing, Segurança e Automação.
-* Parceria com o **Microsoft Reactor São Paulo**.
+### Backend & Database
 
-**Molduraviva | Desenvolvedor Front End Junior/Full Stack** (Fev/2024 - Dez/2024)
-* Otimizou a performance e escalabilidade da loja Shopify usando **Liquid, HTML, CSS, JavaScript** e **Back-end (API & data management)**.
-* Desenvolvimento de **Custom Apps Shopify** para automação de lógica de negócios.
-* Integração de APIs para logística e CRM, melhorando a eficiência operacional.
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-**Bilhon | Desenvolvedor Front End Pleno** (Set/2024 - Dez/2024)
-* Conversão de design do **Figma** para **HTML, CSS e JavaScript**, garantindo responsividade.
-* Desenvolvimento de Landing Page de alta conversão para lançamento digital.
+### Cloud & DevOps
 
-**Grupo ZNTT | Executivo de Marketing** (Abr/2025 - Abr/2025)
-* Coordenação de **10 marcas pessoais simultaneamente**.
-* Recrutamento e gestão de times de copy, design e tráfego pago.
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+### E-commerce & Martech
 
-# 🎓 Formação & Certificações
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 
-### Formação Acadêmica
-* **Associate's degree, Análise de Sistemas de Computação**
-    * Universidade Anhembi Morumbi (Jun/2022 - Abr/2025)
-* **Ensino Médio Profissionalizante - Aluno Alumni**
-    * Instituto PROA (Set/2025 - Nov/2025)
+### Data & Analytics
 
-### Principais Certificações
-* **Microsoft 50 Anos** - Computação em Nuvem com **Azure**
-* **ENGLISH | HIGH ADVANCED LEVEL**
-* **Teamwork and Leadership**
-* **css developer training**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
-# 🌎 Idiomas
+## 📊 GitHub Analytics
 
-| Idioma | Nível de Proficiência |
-| :--- | :--- |
-| **Português** | Nativo ou Bilíngue |
-| **Inglês** | Full Professional |
-| **Espanhol** | Limited Working |
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumatoliveira&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eumatoliveira&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eumatoliveira&theme=react&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Mansilla Consultoria em TI | **Co-owner & Tech Lead**
+*Jan 2020 - Present | São Bernardo do Campo, SP*
+
+- Architected and executed digital transformation strategies for 10+ clients
+- Delivered revenue growth through integrated marketing automation and data analytics
+- Led full-stack development projects from conception to deployment
+- **Tech Stack:** React, Node.js, Python, Power BI, Meta Ads API, Google Ads API
+
+---
+
+### 🤖 NewAl | **Co-founder & CTO**
+*Dec 2024 - Aug 2025 | São Paulo, SP*
+
+**Project: TaskPro** - AI-Powered Time Management System
+- Developed SaaS platform integrating OpenAI API for intelligent task prioritization
+- Implemented cloud infrastructure on Azure with automated deployment pipelines
+- Achieved partnership with **Microsoft Reactor São Paulo**
+- **Tech Stack:** React, Node.js, Azure, OpenAI API, SQL
+
+---
+
+### 🛍️ Molduraviva | **Full Stack Developer**
+*Feb 2024 - Dec 2024 | E-commerce*
+
+**Key Achievements:**
+- Developed 3 custom Shopify apps improving operational efficiency by 35%
+- Optimized store performance: 40% reduction in load time (Lighthouse score: 85+)
+- Architected API integrations (ERP, CRM, logistics) reducing manual operations by 60%
+- Implemented automated inventory management system
+- **Tech Stack:** Shopify Liquid, React, Node.js, REST APIs, JavaScript, HTML/CSS
+
+---
+
+### 💻 Bilhon | **Front-End Developer**
+*Sep 2024 - Dec 2024 | Digital Agency*
+
+- Translated Figma designs into pixel-perfect, responsive web interfaces
+- Built high-conversion landing page for digital product launch (8% conversion rate)
+- Implemented performance optimization techniques (lazy loading, code splitting)
+- **Tech Stack:** React, JavaScript, HTML5, CSS3, Figma
+
+---
+
+### 📈 Grupo ZNTT | **Marketing Executive**
+*Apr 2025 - Apr 2025 | Marketing*
+
+- Coordinated marketing operations for 10 personal brands simultaneously
+- Recruited and managed cross-functional teams (copywriters, designers, paid traffic specialists)
+- Implemented data-driven campaign strategies with 150%+ ROAS
+- **Skills:** Team Leadership, Meta Ads, Google Ads, Growth Strategy
+
+---
+
+## 🎓 Education & Certifications
+
+### 📚 Academic Background
+
+**Associate's Degree - Systems Analysis & Development**  
+*Universidade Anhembi Morumbi* | Jun 2022 - Apr 2025
+
+**Professional High School - Alumni**  
+*Instituto PROA* | Sep 2025 - Nov 2025
+
+---
+
+### 🏆 Key Certifications
+
+<div align="center">
+
+| Certification | Institution | Focus Area |
+|:--------------|:------------|:-----------|
+| **Azure Cloud Computing** | Microsoft (50 Years Program) | Cloud Infrastructure |
+| **English - High Advanced** | - | Language Proficiency |
+| **Teamwork and Leadership** | - | Soft Skills |
+| **CSS Developer Training** | - | Frontend Development |
+
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+| Language | Proficiency Level | Context |
+|:---------|:------------------|:--------|
+| **🇧🇷 Portuguese** | Native | First Language |
+| **🇺🇸 English** | Full Professional | Technical & Business |
+| **🇪🇸 Spanish** | Limited Working | Basic Communication |
+
+</div>
+
+---
+
+## 🎯 What I Bring to Your Team
+
+```javascript
+const matheusProfile = {
+  role: "Full Stack Developer",
+  mindset: "System Integrator",
+  passion: "Eliminating friction between technologies",
+  
+  strengths: [
+    "End-to-end product development",
+    "API integration architecture",
+    "Performance optimization",
+    "Data-driven decision making",
+    "Cross-functional collaboration"
+  ],
+  
+  approach: {
+    problem: "Analyze system architecture holistically",
+    solution: "Build scalable, maintainable solutions",
+    delivery: "Ship with quality, iterate with data"
+  },
+  
+  currentFocus: [
+    "Cloud-native applications",
+    "E-commerce optimization",
+    "Martech automation",
+    "AI integration"
+  ],
+  
+  lookingFor: {
+    position: ["Junior Full Stack", "Mid-level Full Stack"],
+    type: ["PJ", "CLT"],
+    model: ["Hybrid", "Remote"],
+    location: "São Paulo, Brazil (open to relocation)"
+  }
+};
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### I'm actively seeking opportunities to contribute to innovative teams.
+
+**Open to discussing:**
+- Full Stack Development positions (Junior/Mid-level)
+- Freelance/Contract projects
+- Technical consultancy
+- Collaboration opportunities
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-martech/)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-oliveira-martech-portifolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.rob.oliveira@gmail.com)
+
+<br>
+
+### 💡 "Less friction, more results."
+
+</div>
+
+---
+
+<div align="center">
+
+*Last updated: November 2025*
+
+</div>
