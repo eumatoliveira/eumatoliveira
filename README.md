@@ -1,7 +1,7 @@
 <div align="center">
 
 # Matheus Oliveira Souza
-### Principal Engineer | System Architect | AI Engineering Leader
+### Future Tech Lead GenAI | System Architect | AI Engineering Leader
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Architecting+Scalable+AI+Systems;Building+Developer+Platforms+%26+Tools;Driving+Technical+Strategy+%26+Innovation;Model+Context+Protocol+(MCP)+Specialist" alt="Typing Animation" />
 
