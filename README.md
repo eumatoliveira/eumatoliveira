@@ -1,133 +1,385 @@
-<div align="center">
-
 # Matheus Oliveira Souza
-### CTO at GLX Partners | AI & GenAI Production Systems | LLM Architecture | Governance, Reliability & Delivery
 
-<p>
-I build AI systems executives can rely on — with reliability, traceability, cost control, and production discipline from day one.
-</p>
+### Technical Project & Program Management | LLM Architecture | AI Governance | Digital Transformation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-martech/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-oliveira-martech-portifolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.rob.oliveira@gmail.com)
+> **Turning complex AI initiatives into governed, observable, production-ready systems with measurable business impact.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=eumatoliveira&label=Profile+Views&color=0A66C2&style=for-the-badge)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/matheus-ai-pm) •
+[GitHub](https://github.com/eumatoliveira) •
+[Email](mailto:matheus.rob.oliveira@gmail.com)
 
 ---
 
 ## About
 
-I work at the intersection of **AI systems, architecture, governance, and business execution**.
+I work at the intersection of **Artificial Intelligence, software engineering, technical delivery, governance, and business strategy**.
 
-My focus is turning probabilistic AI into **predictable, auditable, decision-ready systems** through:
+My focus is not simply building AI prototypes.
 
-- **LLM and RAG architectures** designed for production
-- **Reliability and observability** for GenAI environments
-- **Governance, traceability, and risk control**
-- **Cost-aware technical decisions** with business visibility
-- **System integration** that connects AI to real operations
+I work on the systems, processes, architecture, and governance required to transform **Generative AI, LLMs, RAG, automation, and software initiatives into reliable production capabilities**.
 
-Today, my work is especially centered on **production-grade AI infrastructure**, where reliability matters more than hype.
+My work connects:
+
+**Business Strategy → Architecture → Engineering → Governance → Delivery → Measurable Value**
+
+Areas I frequently work across include:
+
+- Generative AI and LLM systems
+- Retrieval-Augmented Generation (RAG)
+- AI evaluation and quality assurance
+- AI governance and reliability
+- Software and systems architecture
+- Technical Project / Program Management
+- API and platform integration
+- Automation and process redesign
+- Observability and operational performance
+- Digital Transformation
+
+---
+
+## Impact at a Glance
+
+Some of the results generated across AI, software, automation, and transformation initiatives:
+
+- **48h → 10–15 min operational SLA** through automation and process redesign
+- Approximately **R$15K/month in recurring operational savings**
+- Participation in initiatives involving **100+ companies**
+- Contribution to initiatives associated with approximately **30% sales growth**
+- Support for AI and digital initiatives backed by **AWS and Microsoft Azure cloud credits**
+- Contribution to startup and investment initiatives involving **investor engagement and Letters of Intent**
+
+I care about technology, but I measure its value by what happens after deployment.
 
 ---
 
 ## Current Focus
 
-- Designing and operationalizing **LLM / RAG systems**
-- Improving **retrieval quality** and reducing hallucination risk
-- Building **evaluation pipelines** for higher-trust AI outputs
-- Connecting **Python / FastAPI AI services** to business workflows
-- Structuring AI initiatives with **governance, monitoring, and measurable impact**
+### AI Systems
+
+- Designing **LLM and RAG architectures**
+- Improving retrieval quality and grounding
+- Reducing hallucination and reliability risks
+- Structuring AI evaluation pipelines
+- Designing prompt and context systems
+- Building higher-trust Generative AI workflows
+
+### AI Governance
+
+- Traceability
+- Evaluation
+- Risk management
+- Quality criteria
+- Human oversight
+- Monitoring
+- Responsible deployment
+- Operational controls
+
+### AI Engineering
+
+- Python-based AI services
+- FastAPI applications
+- API integrations
+- AI workflow orchestration
+- Structured data pipelines
+- Production system integration
+
+### Technical Delivery
+
+- Technical Project Management
+- Program Management
+- PMO
+- Portfolio Governance
+- Roadmaps
+- Risk Management
+- Stakeholder Management
+- Cross-functional delivery
+- Agile / Scrum
+- Lean Six Sigma
 
 ---
 
-## Selected Work
+# Featured Projects
 
-### AI / GenAI Systems
-- **[AI-ENGINE-PLATFORM-MCP-First](https://github.com/eumatoliveira/AI-ENGINE-PLATFORM-MCP-First-)**  
-  MCP-oriented architecture exploring extensible AI tooling, protocol-driven integrations, and developer-facing interfaces.
+## AI / GenAI Systems
 
-- **[rag-documentation](https://github.com/eumatoliveira/rag-documentation)**  
-  Documentation-focused RAG project covering retrieval pipelines, document ingestion, and context-aware AI workflows.
+### [AI-ENGINE-PLATFORM-MCP-First](https://github.com/eumatoliveira/AI-ENGINE-PLATFORM-MCP-First-)
 
-- **[Vibe-Coding-OS-Pure-Python-File-Based-Cache](https://github.com/eumatoliveira/Vibe-Coding-OS-Pure-Python-File-Based-Cache)**  
-  Cache and systems-oriented experimentation for AI-assisted workflows and performance-sensitive tooling.
+MCP-oriented AI architecture exploring extensible tooling, protocol-driven integrations, modular services, and developer-facing AI interfaces.
 
-### Platform / Product Engineering
-- **[universal-project-hub](https://github.com/eumatoliveira/universal-project-hub)**  
-  Multi-project workspace concept focused on organization, collaboration, and developer productivity.
-
-- **[webschema](https://github.com/eumatoliveira/webschema)**  
-  Component and design-system work centered on maintainability, reuse, and front-end consistency.
-
-- **[linkly](https://github.com/eumatoliveira/linkly)**  
-  URL and analytics-oriented project demonstrating product thinking, backend structure, and operational use cases.
+**Topics:**  
+`MCP` `AI Architecture` `LLMs` `Agents` `Integrations` `Developer Tooling`
 
 ---
 
-## Professional Background
+### [rag-documentation](https://github.com/eumatoliveira/rag-documentation)
 
-My background combines **software, operations, product, and delivery**:
+Documentation and experimentation around Retrieval-Augmented Generation, including document ingestion, retrieval pipelines, context management, and grounded AI workflows.
 
-- **CTO at GLX Partners** — architecture and governance for production-grade AI and GenAI systems
-- **AI Systems & Prompt Architect at Outlier AI** — structured prompt systems, evaluation, and higher-trust LLM workflows
-- **Project management and consulting** across AI, digital systems, automation, and business operations
-- **Frontend and web engineering** experience in performance, conversion, and real business launches
-- Experience supporting **multi-brand operations**, CRM workflows, SEO, funnels, and digital execution
-
-This combination helps me connect:
-**technical architecture ↔ operational execution ↔ business impact**
+**Topics:**  
+`RAG` `LLM` `Retrieval` `Embeddings` `Context Engineering` `AI`
 
 ---
 
-## Technical Areas
+### [Vibe-Coding-OS-Pure-Python-File-Based-Cache](https://github.com/eumatoliveira/Vibe-Coding-OS-Pure-Python-File-Based-Cache)
 
-**AI / GenAI**
-- LLM systems
-- RAG architecture
-- Prompt systems
-- Evaluation workflows
-- Reliability for AI outputs
+Systems-oriented experimentation around caching, file-based persistence, AI-assisted development workflows, and performance-aware tooling.
 
-**Software Engineering**
-- Python
-- TypeScript / JavaScript
-- FastAPI
-- React
-- Node.js
-- API integration
-
-**Architecture & Delivery**
-- System design
-- Technical strategy
-- Governance
-- Observability
-- Process discipline
-- Lean Six Sigma / Scrum / project execution
+**Topics:**  
+`Python` `Caching` `Systems Engineering` `Developer Experience`
 
 ---
 
-## What I’m Interested In
+## Platform & Product Engineering
 
-I’m especially interested in opportunities involving:
+### [universal-project-hub](https://github.com/eumatoliveira/universal-project-hub)
 
-- AI platform engineering
-- GenAI architecture
-- LLM / RAG production systems
-- AI governance and reliability
-- Technical leadership across engineering and business
-- High-trust AI products with measurable operational value
+Multi-project workspace concept focused on organization, collaboration, project visibility, and developer productivity.
+
+**Topics:**  
+`Productivity` `Project Management` `Platform Engineering`
 
 ---
 
-## Contact
+### [webschema](https://github.com/eumatoliveira/webschema)
 
-<div align="center">
+Front-end and design-system experimentation focused on component reuse, maintainability, scalability, and interface consistency.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-martech/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-oliveira-martech-portifolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.rob.oliveira@gmail.com)
+**Topics:**  
+`Frontend` `Design Systems` `Web Architecture`
 
-</div>
+---
+
+### [linkly](https://github.com/eumatoliveira/linkly)
+
+URL and analytics-oriented product demonstrating backend structure, product thinking, tracking capabilities, and operational use cases.
+
+**Topics:**  
+`Analytics` `Backend` `APIs` `Product Engineering`
+
+---
+
+# Professional Experience
+
+## CTO — GLX Partners
+
+Working across **AI, software architecture, project delivery, automation, governance, and digital transformation**.
+
+Responsibilities include:
+
+- Leading AI and software initiatives from discovery to deployment
+- Connecting engineering decisions with business priorities
+- Structuring project and technology roadmaps
+- Coordinating multidisciplinary teams and stakeholders
+- Managing risks, indicators, dependencies, and delivery
+- Designing automation and AI-enabled operational workflows
+- Supporting architecture and technical decision-making
+- Improving operational efficiency through technology
+
+Selected impact:
+
+- Reduced operational SLA from **48 hours to approximately 10–15 minutes**
+- Generated approximately **R$15K/month in recurring operational savings**
+- Supported initiatives involving **100+ companies**
+- Contributed to initiatives associated with approximately **30% growth in sales**
+
+---
+
+## AI Systems & LLM Evaluation — Outlier AI
+
+Worked in an international environment focused on improving the quality and reliability of Large Language Model outputs.
+
+Areas of work included:
+
+- Prompt Engineering
+- LLM Evaluation
+- RLHF-related evaluation workflows
+- AI Quality Assurance
+- Response quality analysis
+- Coherence and accuracy evaluation
+- Guideline adherence
+- Failure identification
+- Evaluation criteria definition
+- Technical documentation
+
+The work strengthened my experience with **higher-trust AI systems and systematic model evaluation**.
+
+---
+
+## Portfolio, Governance & Strategic Advisory
+
+Experience supporting:
+
+- Portfolio governance
+- Business Cases
+- Executive presentations
+- Strategic analysis
+- Investor and stakeholder relationships
+- Risk management
+- Performance indicators
+- International expansion initiatives
+- Continuous improvement
+- Lessons Learned
+
+This layer of experience complements my engineering background by connecting:
+
+**Technology ↔ Operations ↔ Capital ↔ Strategy**
+
+---
+
+# Technical Stack
+
+## Artificial Intelligence
+
+`Generative AI`  
+`Large Language Models`  
+`RAG`  
+`Prompt Engineering`  
+`Context Engineering`  
+`LLM Evaluation`  
+`AI Agents`  
+`RLHF Concepts`  
+`AI Governance`  
+`AI Quality Assurance`  
+`Responsible AI`
+
+## Backend & AI Engineering
+
+`Python`  
+`FastAPI`  
+`Node.js`  
+`NestJS`  
+`REST APIs`  
+`PostgreSQL`  
+`Prisma`  
+`Redis`
+
+## Frontend
+
+`TypeScript`  
+`JavaScript`  
+`React`  
+`Next.js`  
+`HTML`  
+`CSS`
+
+## Infrastructure & Cloud
+
+`Docker`  
+`Git`  
+`GitHub`  
+`AWS`  
+`Microsoft Azure`  
+`Google Cloud Platform`
+
+## Architecture
+
+`System Design`  
+`API Architecture`  
+`AI Architecture`  
+`RAG Architecture`  
+`Integration Architecture`  
+`Distributed Systems Concepts`  
+`Observability`  
+`Reliability`
+
+## Management & Governance
+
+`Technical Project Management`  
+`Program Management`  
+`PMO`  
+`Portfolio Management`  
+`Stakeholder Management`  
+`Risk Management`  
+`Delivery Management`  
+`Agile`  
+`Scrum`  
+`Kanban`  
+`Lean Six Sigma`  
+`Continuous Improvement`
+
+---
+
+# How I Think About AI
+
+AI systems are probabilistic.
+
+Businesses cannot afford probabilistic operations without controls.
+
+That is why production AI requires more than a model.
+
+It requires:
+
+**Architecture**  
+↓  
+**Context**  
+↓  
+**Evaluation**  
+↓  
+**Governance**  
+↓  
+**Observability**  
+↓  
+**Human Oversight**  
+↓  
+**Continuous Improvement**
+
+The objective is not simply to make a model answer.
+
+The objective is to build a system an organization can **operate, monitor, audit, improve, and trust**.
+
+---
+
+# What I’m Interested In
+
+I am especially interested in complex problems involving:
+
+- AI Platform Engineering
+- Generative AI Architecture
+- LLM / RAG Production Systems
+- AI Agents
+- AI Governance
+- AI Reliability
+- Technical Program Management
+- AI Project Management
+- Digital Transformation
+- Platform and Systems Architecture
+- Enterprise AI
+- AI-enabled business operations
+
+I am particularly interested in environments where **engineering, product, operations, and business strategy intersect**.
+
+---
+
+# Languages
+
+- 🇧🇷 Portuguese — Native / Bilingual
+- 🇺🇸 English — Full Professional Proficiency
+- 🇪🇸 Spanish — Working Proficiency
+
+---
+
+# Engineering Philosophy
+
+> **Complexity should be absorbed by the system, not transferred to the user.**
+
+Good architecture creates reliability.
+
+Good governance creates confidence.
+
+Good project management creates coordination.
+
+Good engineering connects all three to measurable value.
+
+---
+
+# Contact
+
+**Matheus Oliveira Souza**
+
+São Paulo, Brazil
+
+📧 [matheus.rob.oliveira@gmail.com](mailto:matheus.rob.oliveira@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/matheus-ai-pm)
+
+💻 [GitHub](https://github.com/eumatoliveira)
